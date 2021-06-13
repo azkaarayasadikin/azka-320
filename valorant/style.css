@@ -1,0 +1,203 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(21, 23, 31);
+    
+   
+}
+.awal{
+    font-family: sans-serif;
+    color: rgb(128, 0, 0);
+    
+}header {
+    background-color: rgb(21, 23, 31);
+    height: 80px;
+    padding: 20px 0;
+    }
+    .logo {
+    width: 10%;
+    
+    position: relative;
+    top: -20px;
+    left: 15px;
+    }
+    .judul {
+    position: relative;
+    top: -80px;
+    text-align: center;
+    color:rgb(255, 255, 255); ;
+    }
+    nav {
+    height: 45px;
+    position: relative;
+    top: -90px;
+    text-align: center;
+    background-color: rgb(255, 72, 72);
+
+    
+    
+    }
+    .agent-ul{
+        list-style: none;
+        
+    }
+    .agent a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        margin-right: 43px;
+        font-size: 18px;
+        
+
+
+    }
+    .agent a:hover{
+        color:rgb(255, 72, 72); 
+    }
+    
+    .berita-ul{
+        list-style: none;
+    }
+
+    .berita a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        margin-right: 43px;
+        font-size: 18px;
+    }
+    .berita a:hover{
+        color:rgb(255, 72, 72) ;
+    }
+    section {
+    width: 100%;
+    
+    height: 500px;
+    }
+    .kiri {
+    width: 20%;
+    height: inherit;
+    background-color: rgb(21, 23, 31);
+    float: left;
+    position: relative;
+    top: -0%;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    z-index: 2;
+
+    
+    }
+    .phx{
+    padding: 0;
+    width: 120%;
+    margin-top: 20%;
+    height: 20%;
+        
+    }
+    .kotak{
+        border: solid;
+        border-width: 5px;
+        border-color: rgb(255, 72, 72);
+        margin-left: 2%;
+        width: 70%;
+        padding: 10px;
+        margin-top: 5px;
+        
+    }
+
+    .kotaker{
+        border: solid;
+        border-width: 5px;
+        border-color: rgb(255, 72, 72);
+        margin-right: 100%;
+        width: 85%;
+        padding: 10px;
+        padding-bottom: 50px;
+    }
+
+    #searchbox{
+        
+
+    }
+    .tengah {
+    width: 60%;
+    height: inherit;
+    background-color: rgb(21, 23, 31);
+    position: relative;
+    padding: 20%;
+    top: -100%;
+    text-align: center;
+    display: flow-root ;
+    justify-content: center;
+    padding-top: 0px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);;
+    }
+    
+    .imgnews{
+        margin: 20px;
+        width: 60%;
+    }
+    
+    .potocu{
+        margin: 20px;
+        width: 60%;
+        position: relative;
+    padding: 17.5%;
+    top: -5%;
+    text-align: center;
+    display: flow-root ;
+    justify-content: center;
+    padding-top: 0px;
+    font-size: 20px;
+
+        
+        
+    }
+
+    .potomu{
+        margin: 20px;
+        width: 60%;
+    }
+
+    
+    
+    .kanan {
+    width: 20%;
+    height: 100%;
+    background-color: rgb(21, 23, 31);
+    float: right;
+    position: relative;
+    top: -260%;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    z-index: 2;
+    }
+
+    
+    .gambartengah {
+    width: 25%;
+    height: width;
+    align-items: center;
+    }
+    footer {
+        display: flex;
+        position: fixed;
+        height: 120px;
+        width: 100%;
+        background: rgb(255, 72, 72);
+        align-items: center;
+        justify-content: center;
+        padding: 0px;
+        flex-wrap: wrap;
+        z-index: 2;
+        flex-direction: column;
+      }
+      .poto{
+        width: 10px;
+        width: 8%;
+    
+        position: relative;
+      }
+
+      
